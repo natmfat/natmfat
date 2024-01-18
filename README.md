@@ -1,6 +1,3 @@
-Dear all hiring managers,
-I've been submitting the wrong resume for the past few months. Please [click here for my actual resume](https://www.natmfat.com/resume.pdf).
-
 # Hi there 👋
 
 I'm currently working on [Vanilla Libraries](https://github.com/orgs/vanilla-libraries/repositories), which are a set of lightweight and opinionated TypeScript libraries for relatively common tasks, such as generating profile pictures or making a web server.
