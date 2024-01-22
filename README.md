@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm currently working on [Vanilla Libraries](https://github.com/orgs/vanilla-libraries/repositories), which are a set of lightweight and opinionated TypeScript libraries for relatively common tasks, such as generating profile pictures or making a web server.
+I'm currently working on [Vanilla Libraries](https://github.com/orgs/vanilla-libraries/repositories), a set of lightweight and opinionated TypeScript libraries for relatively common tasks like generating profile pictures or making a web server. I'm also finishing up on Gitlocker, a way to present closed source work through GitHub.
 
 ## Projects
 
