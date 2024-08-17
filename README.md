@@ -1,15 +1,10 @@
 # Hi there 👋
 
-I'm currently working on [Vanilla Libraries](https://github.com/orgs/vanilla-libraries/repositories), a set of lightweight and opinionated TypeScript libraries for relatively common tasks like generating profile pictures or making a web server. I'm also finishing up on Gitlocker, a way to present closed source work through GitHub.
+I'm currently working on Gitlocker, a new way to showcase closed-source repositories.
 
 ## Projects
 
-- [Banner](https://github.com/natmfat/banner): Personal project banner generator; can be easily forked & deployed on Vercel for your own use
-- [Screen Time](https://github.com/natmfat/screen-time): Track and manage your screen time with machine learning
-- [Coloors](https://github.com/natmfat/coloors): Generate color palettes (like coolors but really made as an experiment to learn GraphQL)
-- [Shader Playground](https://www.npmjs.com/package/shader-playground): Create basic fragment shaders just like Shader Toy
-
-Some projects are closed source and are only available upon request. I am actively working on improving the code quality of these projects so others can more learn from my work more effectively. For example, I've made
+New projects coming soon with Gitlocker!
 
 - Blockpit: A React-only drag & drop code editor to learn generative art
 - [Creative Coding](https://art.natmfat.com/): Generative art made with p5, Three.js, and TypeScript
