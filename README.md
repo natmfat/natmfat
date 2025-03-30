@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm currently working on Gitlocker, a new way to showcase closed-source repositories.
+I'm currently working on Gitlocker, a new way to showcase closed-source repositories. I'm also reworking a lot of my old projects, so be sure to be on the look out for some of those.
 
 ## Projects
 
@@ -15,4 +15,4 @@ I'm currently working on Gitlocker, a new way to showcase closed-source reposito
 
 ... and many more!
 
-New projects coming soon with Gitlocker, a new way to showcase private repositories to employers.
+New projects coming soon with Gitlocker.
