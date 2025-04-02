@@ -25,3 +25,4 @@ Small little excursions through code.
 - [code-symphony](https://github.com/natmfat/code-symphony): Literally play your code as music
 - [replit-web-os](https://github.com/natmfat/replit-web-os): Replit OS, as presented by Bookie
 - [three-3p](https://github.com/natmfat/three-3p): Three.js third person game template w/ Cannon.js for physics
+- [shader-playground](https://github.com/natmfat/shader-playground): A tiny wrapper around Three.js for fragment shaders
